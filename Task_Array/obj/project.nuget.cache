@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xa2iSPb75T/NmXbTeVDeEDS7OXROuBnelZH77PBsAij3ow191dji2phZhfK6HlnJWqvLlkwqlVh8Gip2Q0Db7Q==",
+  "success": true,
+  "projectFilePath": "/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Task_Array/Task_Array/Task_Array.csproj",
+  "expectedPackageFiles": [
+    "/Users/afandiyevmusa/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/afandiyevmusa/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.29/microsoft.netcore.app.host.osx-x64.3.1.29.nupkg.sha512",
+    "/Users/afandiyevmusa/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

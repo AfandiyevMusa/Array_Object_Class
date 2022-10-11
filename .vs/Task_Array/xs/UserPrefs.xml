@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{296A86DB-FFF3-4535-9306-EDE2EF12F324}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Task_Array/Factorial.cs">
+    <Files>
+      <File FileName="Task_Array/Program.cs" Line="165" Column="53" />
+      <File FileName="Task_Array/Calculator.cs" Line="31" Column="2" />
+      <File FileName="Task_Array/Account.cs" Line="1" Column="1" />
+      <File FileName="Task_Array/Factorial.cs" Line="11" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Task_Array" expanded="True">
+            <Node name="Task_Array" expanded="True">
+              <Node name="Factorial.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Task__Array PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
